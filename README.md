@@ -1,1 +1,1 @@
-# kaggle_JaneStreatMarketPrediction
+# JaneStreatMarketPrediction
